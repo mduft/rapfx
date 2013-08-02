@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.rap.ui.entrypoint">
+      <entrypoint
+            brandingId="org.rapfx.branding"
+            class="org.rapfx.server.test.ThinDemoEntry"
+            id="com.wamas.platform.ui.rap.demo.entry"
+            path="/wamas">
+      </entrypoint>
+   </extension>
+   <extension
+         point="org.eclipse.rap.ui.branding">
+      <branding
+            id="org.rapfx.branding"
+            title="RAP-FX">
+      </branding>
+   </extension>
+
+</plugin>
