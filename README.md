@@ -10,6 +10,9 @@ To get the client connected to an arbitrary RAP application, currently there is 
 "workaround" required, which is more of a hack... Please see the files in the
 org.rapfx.server.test plugins for a sample.
 
+![Guess which one is in RAP-FX :)](/misc/rapfx.png)
+![Another try?](/misc/rapfx2.png)
+
 Setting up the workspace(s)
 ===========================
 

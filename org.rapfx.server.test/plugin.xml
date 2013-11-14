@@ -7,7 +7,7 @@
             brandingId="org.rapfx.branding"
             class="org.rapfx.server.test.ThinDemoEntry"
             id="com.wamas.platform.ui.rap.demo.entry"
-            path="/wamas">
+            path="/thin">
       </entrypoint>
    </extension>
    <extension
